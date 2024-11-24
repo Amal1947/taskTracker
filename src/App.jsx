@@ -130,7 +130,7 @@ const App = () => {
           color: "#8B4513",
         }}
       >
-        Built with ❤️ using React
+        Built with ❤️ Aml
       </footer>
     </div>
   );
